@@ -1,5 +1,5 @@
 # Synchronisation Cal Outlook
-
+Compatible ITSM-NG V2
 ## Description
 Le plugin **Synchronisation Cal Outlook** permet d'envoyer automatiquement une invitation de calendrier Outlook à la personne à laquelle une tâche est assignée. Celle-ci est envoyé par mail contenant le lien ainsi que la date de début et de fin.
 
